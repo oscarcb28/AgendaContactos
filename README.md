@@ -1,4 +1,4 @@
-==============================
+
 INSTRUCCIONES DE USO - AGENDA TELEFÓNICA
 ==============================
 
@@ -88,7 +88,7 @@ ERR03 - Error de sintaxis en la petición.
 oscar-612345678
      ^
 
-==============================
+
 NOTAS ADICIONALES
 ==============================
 - Cada petición se envía una por una (una línea = una acción).
