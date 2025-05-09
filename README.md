@@ -6,7 +6,7 @@ Este cliente permite interactuar con un servidor para gestionar una agenda de co
 
 Cada operación se hace escribiendo una línea de texto en la caja inferior y presionando Enter.
 
-Ejecutar "Servidor/Servidor" y seguidamente "Cleinte/ClienteGUI"
+Ejecutar "Servidor/Servidor" y seguidamente "Cliente/ClienteGUI".
 
 ----------------------------------------
 1. AÑADIR UN CONTACTO
